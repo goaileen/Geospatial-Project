@@ -1,4 +1,4 @@
-QMSS 301 Project 1 - Geospatial Analysis
+Geospatial Analysis
 
 
 The aim of this project is to map some geospatial data, do some simple analysis with the data and interpret the result in a final report.
